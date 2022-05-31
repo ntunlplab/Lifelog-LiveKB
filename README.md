@@ -49,7 +49,7 @@ Each entry in the JSON format is consisted of "tweet_id" (the id of the tweet), 
 ```
 *There is a mistake in our paper: the numbers of the tweets with and without life event are 8,915 and 16,429, respectively.*
 # Download
-Please write us an email with the agreement. Click here to download the agreement of LiveKB.
+Please write us an email with the agreement. Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/LiveKB/LiveKB_agreement.pdf) to download the agreement of LiveKB.
 
 Email Address: azyen@nlg.csie.ntu.edu.tw
 
